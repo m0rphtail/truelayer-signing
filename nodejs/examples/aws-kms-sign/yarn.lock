@@ -850,8 +850,10 @@ strnum@^1.0.5:
   resolved "https://registry.yarnpkg.com/strnum/-/strnum-1.0.5.tgz#5c4e829fe15ad4ff0d20c3db5ac97b73c9b072db"
   integrity sha512-J8bbNyKKXl5qYcR36TIO8W3mVGVHrmmxsd5PAItGkmyzwJvybiw2IVq5nqd0i4LSNSkB/sx9VHllbfFdr9k1JA==
 
-"truelayer-signing@file:../..":
-  version "0.0.1"
+"truelayer-signing@0.1.7":
+  version "0.1.7"
+  resolved "https://registry.yarnpkg.com/truelayer-signing/-/truelayer-signing-0.1.7.tgz#2505645263f5de57875a3d5e3a351f98e431cb43"
+  integrity sha512-lvtbB+NPKMaALtUZGOqurywvqfzRIqG2ShhgO2OdJ0w7NgMSqYnvxFEVoJJbfNsPME0xElnLfeut/ZirdXVdPQ==
   dependencies:
     "@types/jwk-to-pem" "^2.0.1"
     js-base64 "^3.7.2"
