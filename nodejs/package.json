@@ -24,7 +24,7 @@
   "dependencies": {
     "@types/jwk-to-pem": "^2.0.1",
     "js-base64": "^3.7.2",
-    "jwk-to-pem": "^2.0.5",
+    "jwk-to-pem": "^2.0.6",
     "jws": "^4.0.0"
   },
   "devDependencies": {
